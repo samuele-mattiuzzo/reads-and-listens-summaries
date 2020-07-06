@@ -1,6 +1,6 @@
 # Audiobooks Summaries
 
-- [Atomic Habits - James Clear](/books/atomic-habits.md)
+- [Atomic Habits - James Clear](/books/atomic-habits.md) :white_check_mark:
 
 - [Vertical Mind - Don McGrath/Jeff Ellison](/books/vertical-mind.md)
 
