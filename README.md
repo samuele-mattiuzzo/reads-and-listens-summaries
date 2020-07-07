@@ -1,6 +1,15 @@
 # Reads & Listens Summaries
 
-- :white_check_mark: :headphones: [Atomic Habits - James Clear](/books/atomic-habits.md) 
+### Completed
+
+- :headphones: [Atomic Habits - James Clear](/books/atomic-habits.md) 
+
+
+### In Progress
+
+
+### To Do
+
 
 - :black_square_button: :headphones: [Vertical Mind - Don McGrath/Jeff Ellison](/books/vertical-mind.md)
 
