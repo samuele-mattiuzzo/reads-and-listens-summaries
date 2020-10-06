@@ -12,6 +12,8 @@
 
 - :book: [The Rock Warrior's Way - Arno Ilgner](/books/the-rock-warrior-way.md)
 
+- :headphones: [Deep Work - Cal Newport](/books/deep-work.md)
+
 - :headphones: [Vertical Mind - Don McGrath/Jeff Ellison](/books/vertical-mind.md)
 
 - :headphones: [The Five Dysfunctions of a team - Patrick Lencioni](/books/the-five-dysfunctions-of-a-team.md)
