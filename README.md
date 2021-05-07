@@ -11,7 +11,7 @@
 ### To Do
 
 - :book: [The Energy Plan - James Collins](/books/the-energy-plan.md)
-- 
+
 - :book: [The Rock Warrior's Way - Arno Ilgner](/books/the-rock-warrior-way.md)
 
 - :headphones: [Deep Work - Cal Newport](/books/deep-work.md)
