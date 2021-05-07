@@ -1,7 +1,7 @@
 # Reads & Listens Summaries
 
 ### Completed 
-
+- :book: [The Energy Plan - James Collins](/books/the-energy-plan.md)
 
 ### In Progress
 
@@ -10,7 +10,6 @@
 
 ### To Do
 
-- :book: [The Energy Plan - James Collins](/books/the-energy-plan.md)
 
 - :book: [The Rock Warrior's Way - Arno Ilgner](/books/the-rock-warrior-way.md)
 
