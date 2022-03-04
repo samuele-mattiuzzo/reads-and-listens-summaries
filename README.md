@@ -4,17 +4,13 @@
 - :book: [The Energy Plan - James Collins](/books/the-energy-plan.md)
 - :book: / :headphones: [Clean Code - Robert C. Martin](/books/clean-code.md)
 - :headphones: [Atomic Habits - James Clear](/books/atomic-habits.md)
-- 
-### In Progress
 
+### In Progress
+- :headphones: [Deep Work - Cal Newport](/books/deep-work.md)
 
 
 ### To Do
-
-
 - :book: [The Rock Warrior's Way - Arno Ilgner](/books/the-rock-warrior-way.md)
-
-- :headphones: [Deep Work - Cal Newport](/books/deep-work.md)
 
 - :headphones: [Vertical Mind - Don McGrath/Jeff Ellison](/books/vertical-mind.md)
 
