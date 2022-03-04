@@ -2,6 +2,7 @@
 
 ### Completed 
 - :book: [The Energy Plan - James Collins](/books/the-energy-plan.md)
+- :book: / :headphones: [Clean Code - Robert C. Martin](/books/clean-code.md)
 
 ### In Progress
 
