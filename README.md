@@ -3,10 +3,10 @@
 ### Completed 
 - :book: [The Energy Plan - James Collins](/books/the-energy-plan.md)
 - :book: / :headphones: [Clean Code - Robert C. Martin](/books/clean-code.md)
-
+- :headphones: [Atomic Habits - James Clear](/books/atomic-habits.md)
+- 
 ### In Progress
 
-- :headphones: [Atomic Habits - James Clear](/books/atomic-habits.md)
 
 
 ### To Do
@@ -29,4 +29,6 @@
 - :headphones: [Peak Performance - Steve Magness/Brad Stulberg](/books/peak-performance.md)
 
 - :headphones: [Ego is the Enemy - Ryan Holiday](/books/ego-is-the-enemy.md)
+
+- :headphones: [Why We Sleep - Matthew Walker](/books/why-we-sleep.md)
 
